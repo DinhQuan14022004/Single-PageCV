@@ -19,12 +19,19 @@ main{
     margin: auto;
 
 }
-p{
-    margin-top: 20px;
-    margin-bottom: 10px;
+.contact p{
+    margin: 2px;
 }
+.skills p,
+.education p,
+.experience p,
+.across p{
+    margin: 2px;
+}
+
 .color{
     color: green;
+
 }
 p b h2{
 
